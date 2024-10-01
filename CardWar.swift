@@ -6,7 +6,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct CardWar: View {
     
     @State var playerScore = 0
     @State var cpuScore = 0
@@ -84,5 +84,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    CardWar()
 }
