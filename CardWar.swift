@@ -1,6 +1,5 @@
 //
 //  CardWar.swift
-//  new
 //
 //  Created by James Ashley on 3/2/2024.
 //
